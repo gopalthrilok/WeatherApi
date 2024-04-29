@@ -1,0 +1,22 @@
+#id1 {
+  /* background: url(/src/assets/ai-generated-8567642_1920.png); */
+  background: url(https://static.vecteezy.com/system/resources/previews/042/195/725/non_2x/ai-generated-rainy-sky-background-free-photo.jpg);
+  background-repeat: no-repeat;
+
+  
+  /* background-repeat: space; */
+}
+
+#g1 {
+  /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5.1px);
+  -webkit-backdrop-filter: blur(5.1px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  
+}
+button{
+  margin-left: 300px;
+}
